@@ -1,0 +1,12 @@
+.uldiv{display: flex;justify-content: flex-end; margin-right:138px}
+.li{font-size: 12px;  color: white; margin-right:49px  }
+.active{font-size: 12px; color: #5863F8}
+.zeta{font-size: 14px; color:white; font-weight: bold; }
+.header{background-image: url(../img/palma.jpg); width: 100%; background-color: black;}
+.headerwrap{background-color: black; opacity: 60%; position: relative;}
+.zetawrap{padding-top: 30px; display: flex; margin-left: 139px;}
+.p{color: white; font-size: 14px; margin-left: 139px; padding-bottom: 85px}
+.p1{color: white; font-size: 14px; vertical-align: middle;}
+.h1{color: white; font-size: 42px; margin-bottom: 14px; vertical-align: middle; margin-left: 139px; margin-top: 96px; }
+.pwrap{display: flex; align-items: center;}
+.p::after{content:""; width: 2px; height: 19px; background-color: white; display: inline-block; vertical-align: middle; margin-right: 16.5px; margin-left: 16.5px; }
